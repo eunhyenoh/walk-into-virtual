@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: efa9494fbff8c724eb0be7f20d4ef767
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plant_01
+    100004: Plant_01_1
+    100006: Plant_01_2
+    100008: Plant_01_3
+    100010: Plant_01_4
+    100012: Plant_02
+    100014: Plant_02_1
+    100016: Plant_02_2
+    100018: Plant_02_3
+    100020: Plant_02_4
+    100022: Plant_03
+    100024: Plant_03_1
+    100026: Plant_03_2
+    100028: Plant_03_3
+    100030: Plant_03_4
+    100032: stroke
+    100034: strokeMyosotisLight1
+    100036: strokePalmLeafy1
+    100038: strokePalmLeafy2
+    100040: Test_Lightset_V1_mb:directionalLight1
+    100042: Test_Lightset_V1_mb:Sun
+    100044: Test_Lightset_V1_mb:VRayGeoSun1
+    100046: Test_Lightset_V1_mb:VRayPlane1
+    400000: //RootNode
+    400002: Plant_01
+    400004: Plant_01_1
+    400006: Plant_01_2
+    400008: Plant_01_3
+    400010: Plant_01_4
+    400012: Plant_02
+    400014: Plant_02_1
+    400016: Plant_02_2
+    400018: Plant_02_3
+    400020: Plant_02_4
+    400022: Plant_03
+    400024: Plant_03_1
+    400026: Plant_03_2
+    400028: Plant_03_3
+    400030: Plant_03_4
+    400032: stroke
+    400034: strokeMyosotisLight1
+    400036: strokePalmLeafy1
+    400038: strokePalmLeafy2
+    400040: Test_Lightset_V1_mb:directionalLight1
+    400042: Test_Lightset_V1_mb:Sun
+    400044: Test_Lightset_V1_mb:VRayGeoSun1
+    400046: Test_Lightset_V1_mb:VRayPlane1
+    2100000: VRayMtl2
+    2100002: VRayMtl4
+    2100004: lambert2
+    2100006: myosotisLight1Shader
+    2100008: VRayMtl5
+    2100010: VRayMtl3
+    2300000: Plant_01_1
+    2300002: Plant_01_2
+    2300004: Plant_01_4
+    2300006: Plant_02_1
+    2300008: Plant_02_2
+    2300010: Plant_02_4
+    2300012: Plant_03_1
+    2300014: Plant_03_2
+    2300016: Plant_03_4
+    3300000: Plant_01_1
+    3300002: Plant_01_2
+    3300004: Plant_01_4
+    3300006: Plant_02_1
+    3300008: Plant_02_2
+    3300010: Plant_02_4
+    3300012: Plant_03_1
+    3300014: Plant_03_2
+    3300016: Plant_03_4
+    4300000: Plant_01_1
+    4300002: Plant_01_2
+    4300004: Plant_01_4
+    4300006: Plant_02_1
+    4300008: Plant_02_2
+    4300010: Plant_02_4
+    4300012: Plant_03_1
+    4300014: Plant_03_2
+    4300016: Plant_03_4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

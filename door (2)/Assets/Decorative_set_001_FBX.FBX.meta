@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: e04ad91d0c10383428f8ee9a1ff81065
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Decorative_set_001 1
+    100002: Decorative_set_001 10
+    100004: Decorative_set_001 11
+    100006: Decorative_set_001 12
+    100008: Decorative_set_001 13
+    100010: Decorative_set_001 14
+    100012: Decorative_set_001 15
+    100014: Decorative_set_001 16
+    100016: Decorative_set_001 17
+    100018: Decorative_set_001 18
+    100020: Decorative_set_001 19
+    100022: Decorative_set_001 2
+    100024: Decorative_set_001 20
+    100026: Decorative_set_001 21
+    100028: Decorative_set_001 22
+    100030: Decorative_set_001 3
+    100032: Decorative_set_001 4
+    100034: Decorative_set_001 5
+    100036: Decorative_set_001 6
+    100038: Decorative_set_001 7
+    100040: Decorative_set_001 8
+    100042: Decorative_set_001 9
+    100044: //RootNode
+    100046: Decorative_set_001_light_VRayLight
+    100048: Decorative_set_001_light_VRayLight 1
+    400000: Decorative_set_001 1
+    400002: Decorative_set_001 10
+    400004: Decorative_set_001 11
+    400006: Decorative_set_001 12
+    400008: Decorative_set_001 13
+    400010: Decorative_set_001 14
+    400012: Decorative_set_001 15
+    400014: Decorative_set_001 16
+    400016: Decorative_set_001 17
+    400018: Decorative_set_001 18
+    400020: Decorative_set_001 19
+    400022: Decorative_set_001 2
+    400024: Decorative_set_001 20
+    400026: Decorative_set_001 21
+    400028: Decorative_set_001 22
+    400030: Decorative_set_001 3
+    400032: Decorative_set_001 4
+    400034: Decorative_set_001 5
+    400036: Decorative_set_001 6
+    400038: Decorative_set_001 7
+    400040: Decorative_set_001 8
+    400042: Decorative_set_001 9
+    400044: //RootNode
+    400046: Decorative_set_001_light_VRayLight
+    400048: Decorative_set_001_light_VRayLight 1
+    2100000: vray Decorative_set_001_Flower2
+    2100002: vray Decorative_set_001_Gold
+    2100004: vray Decorative_set_001_Plastic
+    2100006: vray Decorative_set_001_Image
+    2100008: vray Decorative_set_001_Paper
+    2100010: vray Decorative_set_003
+    2100012: vray Decorative_set_001_Water
+    2100014: vray Decorative_set_001_Glass
+    2100016: vray vray Decorative_set_001_Image2
+    2100018: Decorative_set_001_Wood
+    2100020: vray Decorative_set_001_Flower3
+    2100022: vray Decorative_set_001_Flower1
+    2100024: vray Decorative_set_001_Glass3
+    2100026: vray Decorative_set_001_Glass2
+    2100028: vray Decorative_set_001_Candle
+    2100030: vray Decorative_set_001_Cnot
+    2100032: vray Decorative_set_001_Fire
+    2300000: Decorative_set_001 1
+    2300002: Decorative_set_001 10
+    2300004: Decorative_set_001 11
+    2300006: Decorative_set_001 12
+    2300008: Decorative_set_001 13
+    2300010: Decorative_set_001 14
+    2300012: Decorative_set_001 15
+    2300014: Decorative_set_001 16
+    2300016: Decorative_set_001 17
+    2300018: Decorative_set_001 18
+    2300020: Decorative_set_001 19
+    2300022: Decorative_set_001 2
+    2300024: Decorative_set_001 20
+    2300026: Decorative_set_001 21
+    2300028: Decorative_set_001 22
+    2300030: Decorative_set_001 3
+    2300032: Decorative_set_001 4
+    2300034: Decorative_set_001 5
+    2300036: Decorative_set_001 6
+    2300038: Decorative_set_001 7
+    2300040: Decorative_set_001 8
+    2300042: Decorative_set_001 9
+    3300000: Decorative_set_001 1
+    3300002: Decorative_set_001 10
+    3300004: Decorative_set_001 11
+    3300006: Decorative_set_001 12
+    3300008: Decorative_set_001 13
+    3300010: Decorative_set_001 14
+    3300012: Decorative_set_001 15
+    3300014: Decorative_set_001 16
+    3300016: Decorative_set_001 17
+    3300018: Decorative_set_001 18
+    3300020: Decorative_set_001 19
+    3300022: Decorative_set_001 2
+    3300024: Decorative_set_001 20
+    3300026: Decorative_set_001 21
+    3300028: Decorative_set_001 22
+    3300030: Decorative_set_001 3
+    3300032: Decorative_set_001 4
+    3300034: Decorative_set_001 5
+    3300036: Decorative_set_001 6
+    3300038: Decorative_set_001 7
+    3300040: Decorative_set_001 8
+    3300042: Decorative_set_001 9
+    4300000: Decorative_set_001
+    4300002: Decorative_set_001
+    4300004: Decorative_set_001
+    4300006: Decorative_set_001
+    4300008: Decorative_set_001
+    4300010: Decorative_set_001
+    4300012: Decorative_set_001
+    4300014: Decorative_set_001
+    4300016: Decorative_set_001
+    4300018: Decorative_set_001
+    4300020: Decorative_set_001
+    4300022: Decorative_set_001
+    4300024: Decorative_set_001
+    4300026: Decorative_set_001
+    4300028: Decorative_set_001
+    4300030: Decorative_set_001
+    4300032: Decorative_set_001
+    4300034: Decorative_set_001
+    4300036: Decorative_set_001
+    4300038: Decorative_set_001
+    4300040: Decorative_set_001
+    4300042: Decorative_set_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

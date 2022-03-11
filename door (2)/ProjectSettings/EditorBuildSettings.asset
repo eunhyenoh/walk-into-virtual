@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/bamboo.unity
+    guid: bb862044676679d4f87f394f836d9e9c
+  - enabled: 1
+    path: Assets/Scenes/church.unity
+    guid: 9d051ccd82638af46aa16a247afb0fc4
+  - enabled: 1
+    path: Assets/Scenes/windy.unity
+    guid: 8e83589d2766b7749ba7b81c57b1d08f
+  - enabled: 1
+    path: Assets/Scenes/Main 1.unity
+    guid: ac466914502665a49b502b6ecec350bf
+  - enabled: 1
+    path: Assets/Scenes/iksan.unity
+    guid: 3a50ba4f924d9c84e92f99b49407b208
+  - enabled: 1
+    path: Assets/Scenes/toooohooo.unity
+    guid: 4490d00b500fb0847a98625cb60b1e36
+  - enabled: 1
+    path: Assets/Scenes/histroy.unity
+    guid: 617bc0b210cf3834888bddb6d490f340
+  - enabled: 1
+    path: Assets/Scenes/towerfd.unity
+    guid: 56c599a76783b144daf249c1b0967b99
+  - enabled: 1
+    path: Assets/Scenes/rhythm.unity
+    guid: 2e451d45e279a79468037edc4c6fadfd
+  - enabled: 1
+    path: Assets/uWater/Scenes/seaScene.unity
+    guid: 587bdc9bcd184f148a3d9455b956e9bf
+  - enabled: 1
+    path: Assets/Scenes/jeju.unity
+    guid: f7361b74259a24341af6710d21a12ebf
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: f715d35feb6f4ef4ba4d4e2556a4db69,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 491cba9663c44834ea1c230cdcb36fe9,
+      type: 2}

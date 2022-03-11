@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 62e6f7591752f0043ae97efd05d3f8bd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: allGrass_001:grassClump_006pPlane1
+    100002: allGrass_001:grassClump_006pPlane103
+    100004: allGrass_001:grassClump_006pPlane106
+    100006: allGrass_001:grassClump_006pPlane135
+    100008: allGrass_001:grassClump_006pPlane136
+    100010: allGrass_001:grassClump_006pPlane3
+    100012: allGrass_001:grassClump_006pPlane32
+    100014: allGrass_001:grassClump_006pPlane33
+    100016: allGrass_001:grassClump_006pPlane34
+    100018: allGrass_001:grassClump_006pPlane4
+    100020: allGrass_001:grassClump_006pPlane47
+    100022: allGrass_001:grassClump_006pPlane51
+    100024: allGrass_001:grassClump_006pPlane6
+    100026: allGrass_001:grassClump_006pPlane66
+    100028: allGrass_001:grassClump_006pPlane77
+    100030: allGrass_001:grassClump_006pPlane8
+    100032: allGrass_001:grassClump_006pPlane86
+    100034: allGrass_001:grassClump_006pSphere3
+    100036: allGrass_001:grassClump_006pSphere7
+    100038: allGrass_001:grassClump_006pSphere8
+    100040: allGrass_001:pPlane2grassClump_006
+    100042: allGrass_001:transform399
+    100044: allGrass_001:transform400
+    100046: allGrass_001:transform401
+    100048: allGrass_001:transform402
+    100050: allGrass_001:transform403
+    100052: allGrass_001:transform404
+    100054: allGrass_001:transform405
+    100056: allGrass_001:transform406
+    100058: allGrass_001:transform407
+    100060: allGrass_001:transform408
+    100062: allGrass_001:transform409
+    100064: allGrass_001:transform410
+    100066: allGrass_001:transform411
+    100068: allGrass_001:transform412
+    100070: allGrass_001:transform413
+    100072: allGrass_001:transform414
+    100074: allGrass_001:transform415
+    100076: allGrass_001:transform416
+    100078: allGrass_001:transform417
+    100080: allGrass_001:transform418
+    100082: //RootNode
+    400000: allGrass_001:grassClump_006pPlane1
+    400002: allGrass_001:grassClump_006pPlane103
+    400004: allGrass_001:grassClump_006pPlane106
+    400006: allGrass_001:grassClump_006pPlane135
+    400008: allGrass_001:grassClump_006pPlane136
+    400010: allGrass_001:grassClump_006pPlane3
+    400012: allGrass_001:grassClump_006pPlane32
+    400014: allGrass_001:grassClump_006pPlane33
+    400016: allGrass_001:grassClump_006pPlane34
+    400018: allGrass_001:grassClump_006pPlane4
+    400020: allGrass_001:grassClump_006pPlane47
+    400022: allGrass_001:grassClump_006pPlane51
+    400024: allGrass_001:grassClump_006pPlane6
+    400026: allGrass_001:grassClump_006pPlane66
+    400028: allGrass_001:grassClump_006pPlane77
+    400030: allGrass_001:grassClump_006pPlane8
+    400032: allGrass_001:grassClump_006pPlane86
+    400034: allGrass_001:grassClump_006pSphere3
+    400036: allGrass_001:grassClump_006pSphere7
+    400038: allGrass_001:grassClump_006pSphere8
+    400040: allGrass_001:pPlane2grassClump_006
+    400042: allGrass_001:transform399
+    400044: allGrass_001:transform400
+    400046: allGrass_001:transform401
+    400048: allGrass_001:transform402
+    400050: allGrass_001:transform403
+    400052: allGrass_001:transform404
+    400054: allGrass_001:transform405
+    400056: allGrass_001:transform406
+    400058: allGrass_001:transform407
+    400060: allGrass_001:transform408
+    400062: allGrass_001:transform409
+    400064: allGrass_001:transform410
+    400066: allGrass_001:transform411
+    400068: allGrass_001:transform412
+    400070: allGrass_001:transform413
+    400072: allGrass_001:transform414
+    400074: allGrass_001:transform415
+    400076: allGrass_001:transform416
+    400078: allGrass_001:transform417
+    400080: allGrass_001:transform418
+    400082: //RootNode
+    2100000: lambert2
+    2300000: allGrass_001:grassClump_006pSphere8
+    3300000: allGrass_001:grassClump_006pSphere8
+    4300000: allGrass_001:grassClump_006pSphere8
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
