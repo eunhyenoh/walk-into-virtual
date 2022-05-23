@@ -1,5 +1,6 @@
 # 걸어서 가상의 속으로(walk-into-virtual)
 Steam VR _ walk into virtual
+
 캡스톤 디자인 - 원광대학교 디지털콘텐츠공학과 <지박령>
 
 # 과제설계 목표
@@ -31,14 +32,17 @@ Steam VR _ walk into virtual
 
 3. 음성 지원 & 푯말 => 장소가 어디인지를 알 수 있다. ==> 해당 장소를 관광 
 ● 해당 지역과 어울리는 배경음악(인연 Inst) 설정
+
 ![image](https://user-images.githubusercontent.com/76396597/169793439-b5f870aa-4a6b-4d46-bf36-a28d68bfc9bc.png)
 
 4. 죽녹원 지역 관광 후 다음 지역으로 넘어가기 위해 Vive Controller로 손 모양을 Touch 
 ● 판다 모델링 => 손 흔드는 모습 구현
+
 ![image](https://user-images.githubusercontent.com/76396597/169793501-1be8b4ad-f8dd-4c1d-b301-8f14c24dee36.png)
 
 5. 전주의 전동성당을 관광 & 수녀님 기도하는 모습 구현 
 ● 해당 지역과 어울리는 배경음악(canon) 설정 & 음성 지원 및 푯말
+
 ![image](https://user-images.githubusercontent.com/76396597/169793552-64d2b851-9c37-43d0-ba4c-c4f0fd66d4ec.png)
 
 6. 거제의 바람의 언덕을 관광
