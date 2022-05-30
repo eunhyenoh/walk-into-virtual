@@ -96,6 +96,7 @@ Steam VR _ walk into virtual
 ![image](https://user-images.githubusercontent.com/76396597/169793885-adfbd621-8b2e-49e2-a1c3-70ebb49d48f6.png)
 
 14. 제주도 관광을 끝마칠 때 한옥 문이 Vive Controller와 맞닿으면 자동으로 열린 후 투어 완료를 알려주는 이미지가 나옴
+
 ![image](https://user-images.githubusercontent.com/76396597/169793903-b0c49bc6-1d75-45cf-b792-9cff8fe3be02.png)
 
 # 걸어서 가상의 속으로 모델링
